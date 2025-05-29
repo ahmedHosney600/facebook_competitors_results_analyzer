@@ -1,0 +1,319 @@
+{
+    "total_pages": 3,
+    "extraction_timestamp": "2025-05-27T12:03:52.819397",
+    "pages": [
+        {
+            "page_name": "توتا بازار",
+            "page_url": "https://www.facebook.com/totabazaar",
+            "extraction_data": {
+                "page_name": "توتا بازار",
+                "likes": "23000",
+                "followers": "27000",
+                "Creation date": "1540936800",
+                "about_info": {
+                    "Categories": "Shopping Service",
+                    "Address": "Nasr City, Egypt",
+                    "Mobile": "+20 11 16624289",
+                    "Hours": "Always open"
+                },
+                "top_reels": [
+                    {
+                        "views": "64",
+                        "reel_link": "https://www.facebook.com/reel/1291319949087802/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "77",
+                        "reel_link": "https://www.facebook.com/reel/3257563441048391/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "185",
+                        "reel_link": "https://www.facebook.com/reel/586861831108163/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "148",
+                        "reel_link": "https://www.facebook.com/reel/525443587315877/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "350",
+                        "reel_link": "https://www.facebook.com/reel/557916440447691/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "107",
+                        "reel_link": "https://www.facebook.com/reel/676524288332830/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "98",
+                        "reel_link": "https://www.facebook.com/reel/1218043079269491/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "89",
+                        "reel_link": "https://www.facebook.com/reel/587670490530348/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "85",
+                        "reel_link": "https://www.facebook.com/reel/1330820274687652/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "106",
+                        "reel_link": "https://www.facebook.com/reel/1339408910496456/?s=fb_shorts_tab&stack_idx=0"
+                    }
+                ],
+                "Page ID": "219905185378759",
+                "This Page can have multiple admins. They may have permission to post content, comment or send messages as the Page.": "Admin info",
+                "running_ads": false,
+                "date_of_creation": null,
+                "all_links": [],
+                "This Page is currently running ads.": ""
+            },
+            "metadata": {
+                "title": "توتا بازار | Cairo ",
+                "description": "‎توتا بازار‎, ‎مدينة نصر‎. 23,042 likes · 373 talking about this. event planner"
+            },
+            "source_urls": {
+                "base_url": "https://www.facebook.com/totabazaar",
+                "about_url": "https://www.facebook.com/totabazaar?sk=about_contact_and_basic_info",
+                "transparency_url": "https://www.facebook.com/totabazaar?sk=about_profile_transparency"
+            },
+            "ads_data": {
+                "page_id": "219905185378759",
+                "advertiser_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=EG&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=219905185378759",
+                "total_active_ads": 6,
+                "active_ads": [
+                    {
+                        "ad_index": 1,
+                        "ad_title": "API.WHATSAPP.COM توتا بازار",
+                        "ad_description": "🫨 خروجة العيد السنة دي هتبدأ من توتا بازار🫨 🎉 3 أيام من الفُسحة، الحفلات 'التسوق، والهدايا اللي هتغيّر مودك 🛍️ تسوق من أكتر من 50 براند: لبس، ميك أب، برفيوم، إكسسوارات، سكين كير، هاند ميد وكل اللي نفسك فيه سحوبات يومية وهدايا سبايك دهب للموجودين🎁 حفلات وأجواء العيد🎤 بلوجر مشهور هيكون موجود وهيشعللك اليوم📸 التاريخ: 29 / 30 / 31 مايو – قبل العيد بـ 5 أيام🗓️ المكان: ممشى جمال عبد الناصر – Square One زايد📍 📌 اللوكيشن: https://maps.app.goo.gl/mFApLLzbnXZT3M4r9 الدخول مجاني والهدايا علينا… مستنيينك تعيشها😉",
+                        "ad_time": "Started running on May 26, 2025",
+                        "cta": "Send WhatsApp message",
+                        "extraction_method": "exact_selectors"
+                    },
+                    {
+                        "ad_index": 2,
+                        "ad_title": "API.WHATSAPP.COM توتا بازار",
+                        "ad_description": "سحب على دهب وهدايا لكل الحاضرين في توتا بازار 😊♥️ 🗓️ 29، 30، 31 مايو 📍 ممشى جمال عبد الناصر – سكوير ون زايد 📍الوكيشن https://maps.app.goo.gl/mFApLLzbnXZT3M4r9 الدخول ببلاش والهدايا علينا، يعني متفوتش الفرصة وتعالى عيش معانا أجواء العيد الحلوة😍",
+                        "ad_time": "Started running on May 26, 2025",
+                        "cta": "Send WhatsApp message",
+                        "extraction_method": "exact_selectors"
+                    },
+                    {
+                        "ad_index": 3,
+                        "ad_title": "API.WHATSAPP.COM توتا بازار",
+                        "ad_description": "سحب على دهب وهدايا لكل الحاضرين في توتا بازار 😊♥️ 🗓️ 29، 30، 31 مايو 📍 ممشى جمال عبد الناصر – سكوير ون زايد 📍الوكيشن https://maps.app.goo.gl/mFApLLzbnXZT3M4r9 الدخول ببلاش والهدايا علينا، يعني متفوتش الفرصة وتعالى عيش معانا أجواء العيد الحلوة😍",
+                        "ad_time": "Started running on May 26, 2025",
+                        "cta": "Send WhatsApp message",
+                        "extraction_method": "exact_selectors"
+                    },
+                    {
+                        "ad_index": 4,
+                        "ad_title": "API.WHATSAPP.COM توتا بازار",
+                        "ad_description": "🫨 خروجة العيد السنة دي هتبدأ من توتا بازار🫨 🎉 3 أيام من الفُسحة، الحفلات 'التسوق، والهدايا اللي هتغيّر مودك 🛍️ تسوق من أكتر من 50 براند: لبس، ميك أب، برفيوم، إكسسوارات، سكين كير، هاند ميد وكل اللي نفسك فيه سحوبات يومية وهدايا سبايك دهب للموجودين🎁 حفلات وأجواء العيد🎤 بلوجر مشهور هيكون موجود وهيشعللك اليوم📸 التاريخ: 29 / 30 / 31 مايو – قبل العيد بـ 5 أيام🗓️ المكان: ممشى جمال عبد الناصر – Square One زايد📍 📌 اللوكيشن: https://maps.app.goo.gl/mFApLLzbnXZT3M4r9 الدخول مجاني والهدايا علينا… مستنيينك تعيشها😉",
+                        "ad_time": "Started running on May 26, 2025",
+                        "cta": "Send WhatsApp message",
+                        "extraction_method": "exact_selectors"
+                    },
+                    {
+                        "ad_index": 5,
+                        "ad_title": "API.WHATSAPP.COM توتا بازار",
+                        "ad_description": "سحب على دهب وهدايا لكل الحاضرين في توتا بازار 😊♥️ 🗓️ 29، 30، 31 مايو 📍 ممشى جمال عبد الناصر – سكوير ون زايد 📍الوكيشن https://maps.app.goo.gl/mFApLLzbnXZT3M4r9 الدخول ببلاش والهدايا علينا، يعني متفوتش الفرصة وتعالى عيش معانا أجواء العيد الحلوة😍",
+                        "ad_time": "Started running on May 26, 2025",
+                        "cta": "Send WhatsApp message",
+                        "extraction_method": "exact_selectors"
+                    },
+                    {
+                        "ad_index": 6,
+                        "ad_title": "API.WHATSAPP.COM توتا بازار",
+                        "ad_description": "🫨 خروجة العيد السنة دي هتبدأ من توتا بازار🫨 🎉 3 أيام من الفُسحة، الحفلات 'التسوق، والهدايا اللي هتغيّر مودك 🛍️ تسوق من أكتر من 50 براند: لبس، ميك أب، برفيوم، إكسسوارات، سكين كير، هاند ميد وكل اللي نفسك فيه سحوبات يومية وهدايا سبايك دهب للموجودين🎁 حفلات وأجواء العيد🎤 بلوجر مشهور هيكون موجود وهيشعللك اليوم📸 التاريخ: 29 / 30 / 31 مايو – قبل العيد بـ 5 أيام🗓️ المكان: ممشى جمال عبد الناصر – Square One زايد📍 📌 اللوكيشن: https://maps.app.goo.gl/mFApLLzbnXZT3M4r9 الدخول مجاني والهدايا علينا… مستنيينك تعيشها😉",
+                        "ad_time": "Started running on May 26, 2025",
+                        "cta": "Send WhatsApp message",
+                        "extraction_method": "exact_selectors"
+                    }
+                ]
+            }
+        },
+        {
+            "page_name": "الدولية جروب",
+            "page_url": "https://www.facebook.com/61566655693551",
+            "extraction_data": {
+                "page_name": "الدولية جروب",
+                "likes": "117",
+                "followers": "3600",
+                "Creation date": "1728507600",
+                "about_info": {
+                    "Categories": "Designer",
+                    "Tumblr": "الدوليه",
+                    "WhatsApp": "الدوليه جروب لاعمال الالومنيوم",
+                    "Basic info": "Not yet rated (0 Reviews)"
+                },
+                "top_reels": [
+                    {
+                        "views": "81",
+                        "reel_link": "https://www.facebook.com/reel/1349278202955215/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "81",
+                        "reel_link": "https://www.facebook.com/reel/1875827193258206/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "61",
+                        "reel_link": "https://www.facebook.com/reel/1664559737764260/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "56",
+                        "reel_link": "https://www.facebook.com/reel/1860450711374727/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "47",
+                        "reel_link": "https://www.facebook.com/reel/3675799415900152/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "89",
+                        "reel_link": "https://www.facebook.com/reel/988091633446546/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "30",
+                        "reel_link": "https://www.facebook.com/reel/996437245788771/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "46",
+                        "reel_link": "https://www.facebook.com/reel/970454328572025/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "40",
+                        "reel_link": "https://www.facebook.com/reel/942752531332922/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "40",
+                        "reel_link": "https://www.facebook.com/reel/638993611939103/?s=fb_shorts_tab&stack_idx=0"
+                    }
+                ],
+                "all_links": [
+                    "https://l.facebook.com/l.php?u=http%3A%2F%2Finvalid.invalid%2F&h=AT3RgFoxMRUC_cZp7-YRZvqLvxdmogf0c-WgfXE3xMQdd6DNNvK-mj0vkPl9L8VO96Pp1dZ0z9Fhi_hulj_Eh3SexR9GcjcF0xCJosKu5VNQXUWoBX21SaEMAAfng6VXZOv8NnE2TmvzHg"
+                ],
+                "Page ID": "417315824806611",
+                "This Page can have multiple admins. They may have permission to post content, comment or send messages as the Page.": "Admin info",
+                "running_ads": false,
+                "date_of_creation": null,
+                "This Page is currently running ads.": ""
+            },
+            "metadata": {
+                "title": "الدولية جروب ",
+                "description": "‎الدولية جروب ‎. 117 likes · 122 talking about this. ‎مصنع الددوليه لاعمال الالومنيوم  01146314331    01122006660‎"
+            },
+            "source_urls": {
+                "base_url": "https://www.facebook.com/61566655693551",
+                "about_url": "https://www.facebook.com/61566655693551?sk=about_contact_and_basic_info",
+                "transparency_url": "https://www.facebook.com/61566655693551?sk=about_profile_transparency"
+            },
+            "ads_data": {
+                "page_id": "417315824806611",
+                "advertiser_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=EG&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=417315824806611",
+                "total_active_ads": 1,
+                "active_ads": [
+                    {
+                        "ad_index": 1,
+                        "ad_title": "الدولية جروب",
+                        "ad_description": "**الدولية جروب – أرخص أسعار الألومنيوم في مصر!** ✨ 🔹 **سعر متر البي إس**: **2000 جنيه** بدلًا من **4000 جنيه** 🔹 **خصم 50%** على الشبابيك قطاعات البي إس 🔹 **خصم 40%** على مطابخ الألومنيوم – يبدأ سعر المتر من **3500 جنيه** 🔹 **جودة عالية + باركود + إكسسوارات زجاج وسلك + التركيب شامل** 📍 **العنوان**: شارع البحر الأعظم بجوار القرية الفرعونية 🎁 **عروض وهدايا خاصة! اسأل عنها الآن** 📞 **اتصل بنا:** 01146314331 🚀 **لا تفوت الفرصة، العرض لفترة محدودة!**",
+                        "ad_time": "Started running on May 26, 2025",
+                        "cta": "Send WhatsApp message",
+                        "extraction_method": "exact_selectors"
+                    }
+                ]
+            }
+        },
+        {
+            "page_name": "SIGMA TOP",
+            "page_url": "https://www.facebook.com/people/SIGMA-TOP/61559022906068",
+            "extraction_data": {
+                "page_name": "SIGMA TOP",
+                "likes": "1700",
+                "followers": "1800",
+                "Creation date": "1714510800",
+                "about_info": {
+                    "Categories": "Cabinet & Countertop Store · Furniture",
+                    "Address": "Nasr City, Egypt",
+                    "Mobile": "+20 10 29407072",
+                    "WhatsApp": "+20 12 74790522",
+                    "TikTok": "https://www.tiktok.com/@sigma.top27?_t=ZS-8wROxA8fNnW&_r=1",
+                    "Celebration: Founding date": [
+                        "Not yet rated (0 Reviews)",
+                        "November 11, 2020"
+                    ]
+                },
+                "top_reels": [
+                    {
+                        "views": "2.3K",
+                        "reel_link": "https://www.facebook.com/reel/717493000829331/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "6.3K",
+                        "reel_link": "https://www.facebook.com/reel/659062630461130/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "228",
+                        "reel_link": "https://www.facebook.com/reel/722067590173696/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "284",
+                        "reel_link": "https://www.facebook.com/reel/3560985700871919/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "195",
+                        "reel_link": "https://www.facebook.com/reel/1068767791972468/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "213",
+                        "reel_link": "https://www.facebook.com/reel/1373088687359276/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "679",
+                        "reel_link": "https://www.facebook.com/reel/361093603650969/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "747",
+                        "reel_link": "https://www.facebook.com/reel/770131978589097/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "652",
+                        "reel_link": "https://www.facebook.com/reel/838590178310944/?s=fb_shorts_tab&stack_idx=0"
+                    },
+                    {
+                        "views": "392",
+                        "reel_link": "https://www.facebook.com/reel/761084186200580/?s=fb_shorts_tab&stack_idx=0"
+                    }
+                ],
+                "all_links": [
+                    "https://l.facebook.com/l.php?u=https%3A%2F%2Ftiktok.com%2F%40sigma.top27%253F_t%253DZS-8wROxA8fNnW%2526_r%253D1&h=AT0-K_6qASmlbgUe1Dimfs49umeIHsELsyFwRV57b_VoVNkqTF8X_JBr2HLmnd-uJtFlzpvk-IVLcoUT2CZpE0dXLGK3-9ODdt_i_27QIKE5tspWK8biJX-4QDGnwe8bEIkOcQtjntkNLg"
+                ],
+                "Page ID": "309750272217219",
+                "This Page can have multiple admins. They may have permission to post content, comment or send messages as the Page.": "Admin info",
+                "running_ads": false,
+                "date_of_creation": null,
+                "This Page is currently running ads.": ""
+            },
+            "metadata": {
+                "title": "SIGMA TOP | Cairo ",
+                "description": "SIGMA TOP, ‎‏‎Nasr City‎‏، ‏‎Cairo Governorate‎‏، ‏‎Egypt‎‏‎. 1,765 likes · 315 talking about this. ‎أكسسورات المطابخ والدريسنج روم الحديثة‎"
+            },
+            "source_urls": {
+                "base_url": "https://www.facebook.com/people/SIGMA-TOP/61559022906068",
+                "about_url": "https://www.facebook.com/people/SIGMA-TOP/61559022906068?sk=about_contact_and_basic_info",
+                "transparency_url": "https://www.facebook.com/people/SIGMA-TOP/61559022906068?sk=about_profile_transparency"
+            },
+            "ads_data": {
+                "page_id": "309750272217219",
+                "advertiser_link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=EG&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=309750272217219",
+                "total_active_ads": 1,
+                "active_ads": [
+                    {
+                        "ad_index": 1,
+                        "ad_title": "SIGMA TOP Home & Garden, Furniture",
+                        "ad_description": "عند SIGMA TOP 🔥لمسة سحرية هتغيّر شكل مطبخك للأفضل! اكسسوارات عصرية للمطابخ والدريسنج روم: ✔ تصميمات مودرن فخمة ✔ خامات قوية تعيش سنين مستورد ومحلي . ✔ استخدام عملي وتحمل عالي ✔ أسعار تنافسية للجملة والمصانع والمعارض ✔ شحن لكل محافظات مصر ✅️يوجد فريق تركيبات لو محتاج تركيب المنتج داخل القاهرة ✅️اما لو انت عريس او عروسة وبتجهز بيتك اسال فريق العمل عن عروض تصنيع المطابخ والدرسنج روم لأننا عندنا فريق عمل متخصص في تصنيع جميع انواع المطابخ والدرسنج روم 🔋✅️ ليه تختار SIGMA TOP؟✅️ لأننا بنقدم لك: جودة عالية🔥 أسعار مناسبة🔥 خصومات ملهاش منافس 🔥 دعم فني واستشارات لتركيب أفضل🗣 اطلب دلوقتي من خلال صفحتنا واعرف العروض الحصريه رابط tiktok https://www.tiktok.com/@sigma.top27?_t=ZS-8wROxA8fNnW&_r=1 للتواصل والاستفسار واتساب: 012 74790522 ولطلبات الجمله والمصانع +20 10 29407072",
+                        "ad_time": "Started running on May 25, 2025",
+                        "cta": "Send message",
+                        "extraction_method": "exact_selectors"
+                    }
+                ]
+            }
+        }
+    ]
+}
