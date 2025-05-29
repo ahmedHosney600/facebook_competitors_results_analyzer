@@ -416,7 +416,7 @@ Engagement Leader: {engagement_leader[0]} with competitiveness score of {engagem
             'top_performer_by_engagement': max(self.results['competitors'], key=lambda x: x['engagement_metrics']['content_performance_score'])['page_name'],
             'most_active_advertiser': max(self.results['competitors'], key=lambda x: x['advertising_analysis']['total_active_ads'])['page_name'],
             'most_cross_platform': max(self.results['competitors'], key=lambda x: x['business_analysis']['cross_platform_presence']['total_platforms'])['page_name'],
-            'newest_competitor': min(self.results['competitors'], key=lambda x: int(x['extraction_data'].get('Creation date', '0')))['page_name'] if self.results['competitors'] else 'N/A'
+            'newest_competitor': min(self.results['competitors'], key=lambda x: int(x['extraction_data'].get('Creation_date', '0')))['page_name'] if self.results['competitors'] else 'N/A'
         }
         
         enhanced_results['quick_insights'] = quick_insights
