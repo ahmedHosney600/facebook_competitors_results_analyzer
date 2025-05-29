@@ -13,6 +13,8 @@
 
 ---
 
+## This Tool is built On the results of https://github.com/ahmedHosney600/get_comprehensive_facebook_pages_data
+
 ## Project Overview
 
 This tool analyzes Facebook business pages to provide competitive intelligence. It examines multiple aspects of competitors' social media presence, business setup, advertising strategies, and market positioning to help you make informed strategic decisions.
